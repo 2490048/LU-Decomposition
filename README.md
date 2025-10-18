@@ -32,8 +32,7 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 ```
 '''Program to solve a matrix using LU decomposition.
-Developed by: G.Sindhu Priya Reddy
-RegisterNumber: 212224040319
+
 '''
 
 # To print X matrix (solution to the equations)
